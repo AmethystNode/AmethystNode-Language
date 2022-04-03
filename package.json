@@ -1,0 +1,11 @@
+{
+  "name": "amethystnode-language",
+  "version": "0.0.1",
+  "description": "AmethystNode Language Module",
+  "main": "index.js",
+  "keywords": [
+    "amethystnode",
+    "amethystnode language"
+  ],
+  "author": "AmethystNodeTeam"
+}
